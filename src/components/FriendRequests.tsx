@@ -8,7 +8,7 @@ const FriendRequests = () => {
       {/* TOP */}
       <div className="flex items-center justify-between font-medium">
         <span className="text-gray-500">Friend Requests</span>
-        <Link href="/" className="text-blue-500">
+        <Link href="/" className="text-blue-500 text-xs">
           See all
         </Link>
       </div>
